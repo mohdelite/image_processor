@@ -1,0 +1,2 @@
+# image_processor
+ The image_processor is a Python-based application designed for effortless image manipulation tailored for eCommerce websites. With a user-friendly interface built using Tkinter, this tool enables users to quickly load images, add logos, resize to 1000x1000 pixels, rotate images, and export them in various formats including WEBP and JPEG. Ideal for enhancing product images, this application streamlines the process of preparing visuals for online stores.
